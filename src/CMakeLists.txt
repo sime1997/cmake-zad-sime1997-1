@@ -1,6 +1,5 @@
 
 
-
 add_executable(main main.cpp)
 
 find_package(Eigen3)

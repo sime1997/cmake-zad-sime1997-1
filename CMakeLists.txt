@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
 project(cmake-zad-sime1997 CXX)
 enable_testing()
-#add_subdirectory(test)
+add_subdirectory(test)
 add_subdirectory(src)
 
 include(FetchContent)
